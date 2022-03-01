@@ -14,7 +14,7 @@ const andrea = {
   techCommunities: {
                       mentor: "Dev.f"
                    },
- challenge: "I am learning fullstack develpment at the Launch X program by Innovacción Virtual - Microsoft"
+ challenge: "I am learning fullstack development at the Launch X program by Innovacción Virtual - Microsoft"
 }
 ```
 
