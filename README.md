@@ -1,16 +1,21 @@
-### Hi there 👋
+<h2> Hi there 👋, I'm Andrea Gómez </h2>
 
-<!--
-**andrea-liliana/andrea-liliana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>Master 2 Data Science Student at <a href="https://www.uliege.be/cms/c_8699436/fr/uliege">Université de Liège</a></br>Data scientist at <a href="https://www.devf.la">Dev.f</a>
+</em></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little more about me...  
+
+```javascript
+const andrea = {
+  code: [Python, R, C, Java, Julia, HTML/CSS, SQL],
+  tools: [Azure (Microsoft Azure Certification), Flask ],
+  areas: ["NLP", "Cloud", "Data", "Advanced ML"],
+  techCommunities: {
+                      mentor: "Dev.f"
+                   },
+ challenge: "I am learning fullstack develpment at the Launch X program by Innovacción Virtual - Microsoft"
+}
+```
+
+---
