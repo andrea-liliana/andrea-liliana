@@ -9,7 +9,7 @@
 ```javascript
 const andrea = {
   code: [Python, R, C, Java, Julia, HTML/CSS, SQL],
-  tools: [Azure (Microsoft Azure Certification), Flask ],
+  tools: [Azure (Microsoft Azure Certification), Flask],
   areas: ["NLP", "Cloud", "Data", "Machine Learning", "Deep Learning"],
   techCommunities: {
                       mentor: "Dev.f"
