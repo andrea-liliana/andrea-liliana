@@ -8,7 +8,7 @@
 
 ```javascript
 const andrea = {
-  code: [Python, R, C, Java, Julia, HTML/CSS, SQL],
+  code: [Python, R, C, Java, Julia, HTML/CSS, SQL, JS],
   tools: [Azure (Microsoft Azure Certification), Flask],
   areas: ["NLP", "Cloud", "Data", "Machine Learning", "Deep Learning"],
   techCommunities: {
