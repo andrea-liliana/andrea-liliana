@@ -10,7 +10,7 @@
 const andrea = {
   code: [Python, R, C, Java, Julia, HTML/CSS, SQL, JS],
   tools: [Azure (Microsoft Azure Certification), Flask],
-  areas: ["NLP", "Cloud", "Data", "Machine Learning", "Deep Learning"],
+  areas: ["NLP", "Cloud", "Data", "Machine Learning", "Deep Learning", "Probability & Statistics"],
   techCommunities: {
                       mentor: "Dev.f",
                       speaker: "Google Developer Student Clubs Latam"
