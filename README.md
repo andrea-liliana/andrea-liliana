@@ -13,6 +13,7 @@ const andrea = {
   areas: ["NLP", "Cloud", "Data", "Machine Learning", "Deep Learning"],
   techCommunities: {
                       mentor: "Dev.f"
+                      speaker: "Google Developer Student Clubs Latam"
                    },
  challenge: "I am learning fullstack development at the Launch X program by Innovacción Virtual - Microsoft"
 }
