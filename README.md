@@ -8,12 +8,13 @@
 
 ```javascript
 const andrea = {
-  code: [Python, R, C, Java, Julia, HTML/CSS, SQL, JS],
+  code:  [Python, R, C, Java, Julia, HTML/CSS, SQL, JS],
   tools: [Azure (Microsoft Azure Certification), Flask],
   areas: ["NLP", "Cloud", "Data", "Machine Learning", "Deep Learning", "Probability & Statistics"],
   techCommunities: {
                       mentor: "Dev.f",
                       speaker: "Google Developer Student Clubs Latam"
+                      events: "Hackathon bbva", "Hackathon RIIAA"
                    },
  challenge: "I am learning fullstack development at the Launch X program by Innovacción Virtual - Microsoft"
 }
