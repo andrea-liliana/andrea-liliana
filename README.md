@@ -1,6 +1,6 @@
 <image src="https://user-images.githubusercontent.com/42507973/163586033-4d5876f5-7118-4760-ae27-8a09a9300727.png" width="100%" />
 
-<h2> Hi there 👋 </h2>
+<h1> Hi there 👋 </h1>
 
 <p><em>I'm Andrea Gómez Herrera and I am a mathematician that decided to go into tech. Now I am a last year masters student in Data Science Student at <a href="https://www.uliege.be/cms/c_8699436/fr/uliege">Université de Liège</a> and currently working as Data scientist at <a href="https://www.devf.la">Dev.f</a>.
 </em></p>
