@@ -1,6 +1,4 @@
-![header](![andrea gómez](https://user-images.githubusercontent.com/42507973/163570556-0a37b31f-3fad-40ce-88a5-a500eee15f8e.jpg)
-;&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
-
+<img src="https://user-images.githubusercontent.com/42507973/163570556-0a37b31f-3fad-40ce-88a5-a500eee15f8e.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="100%" height="400" />
 
 
 <h2> Hi there 👋 I'm Andrea Gómez </h2>
