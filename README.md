@@ -1,4 +1,4 @@
-<image src="https://user-images.githubusercontent.com/42507973/163581465-9173e720-1cfe-41f0-b7d3-29a08060afb3.gif" width="100%" height="400" />
+<image src="https://user-images.githubusercontent.com/42507973/163581465-9173e720-1cfe-41f0-b7d3-29a08060afb3.gif" width="100%" height="380" />
 
 
 <h2> Hi there 👋 I'm Andrea Gómez </h2>
