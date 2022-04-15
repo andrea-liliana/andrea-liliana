@@ -2,7 +2,7 @@
 
 <h1> Hi there 👋 </h1>
 
-<p><em>I'm Andrea Gómez Herrera and I am a mathematician that decided to go into tech. Now I am a last year masters student in Data Science Student at <a href="https://www.uliege.be/cms/c_8699436/fr/uliege">Université de Liège</a> and currently working as Data scientist at <a href="https://www.devf.la">Dev.f</a>.
+<p><em>I'm Andrea Gómez Herrera and I am a mathematician that decided to go into tech. Now I am a last year masters student in Data Science at <a href="https://www.uliege.be/cms/c_8699436/fr/uliege">Université de Liège</a> and currently working as Data scientist at <a href="https://www.devf.la">Dev.f</a>.
 </em></p>
 
 
