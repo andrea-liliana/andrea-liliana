@@ -23,4 +23,5 @@ const andrea = {
 }
 ```
 
----
+
+<img src="https://user-images.githubusercontent.com/42507973/163572620-df4b4609-3859-4544-9ca7-dd3f78ac30a9.png" width="100%" height="5"/>
