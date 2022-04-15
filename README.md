@@ -11,7 +11,7 @@
 ```javascript
 const andrea = {
   code:  [Python, R, C, Java, Julia, HTML/CSS, SQL, JS],
-  tools: [Azure (Microsoft Azure Certification), Flask, VueJS, Vuex, Angular],
+  tools: [Azure (Microsoft Azure Certification), Flask, VueJS, Vuex, Angular, Node.js],
   areas: ["NLP", "Cloud", "Data", "Machine Learning", "Deep Learning", "Probability & Statistics"],
   techCommunities: {
                       mentor: "Dev.f",
