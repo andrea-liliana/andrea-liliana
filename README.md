@@ -10,15 +10,15 @@
 
 ```javascript
 const andrea = {
-  code:  [Python, R, C, Java, Julia, HTML/CSS, SQL, JS],
-  tools: [Azure (Microsoft Azure Certification), Flask, VueJS, Vuex, Angular, Node.js],
-  areas: ["NLP", "Cloud", "Data", "Machine Learning", "Deep Learning", "Probability & Statistics"],
+  code:  ['Python', 'R', 'C', 'Java', 'Julia', 'HTML', 'CSS', 'SQL', 'JavaScript'],
+  tools: ['Azure (Microsoft Azure Certification)', 'Flask', 'VueJS', 'Vuex', 'Angular', 'Node.js'],
+  areas: ['NLP', 'Cloud', 'Data', 'Machine Learning', 'Deep Learning', 'Probability & Statistics'],
   techCommunities: {
-                      mentor: "Dev.f",
-                      speaker: "Google Developer Student Clubs Latam",
-                      events: "Hackathon BBVA", "Hackathon RIIAA"
+                      mentor: 'Dev.f',
+                      speaker: 'Google Developer Student Clubs Latam',
+                      events: 'Hackathon BBVA', 'Hackathon RIIAA'
                    },
- challenge: "I am learning fullstack development at the Launch X program by Innovacción Virtual - Microsoft"
+ challenge: 'I am learning fullstack development at the Launch X program by Innovacción Virtual - Microsoft'
 }
 ```
 
