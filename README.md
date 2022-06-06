@@ -15,9 +15,10 @@
 ```javascript
 const andrea = {
   code:  ['Python', 'R', 'C', 'Java', 'Julia', 'HTML', 'CSS', 'SQL', 'JavaScript'],
+  areas: ['NLP', 'Cloud', 'Data', 'AI', 'Machine Learning', 'Deep Learning', 'Probability & Statistics'],
   tools: ['Flask', 'VueJS', 'Vuex', 'Angular', 'Node.js'],
   cloud: ['Azure (Microsoft Azure Certification)', 'GCP'],
-  areas: ['NLP', 'Cloud', 'Data', 'Machine Learning', 'Deep Learning', 'Probability & Statistics'],
+  databases: ['MySQL', 'PostgreSQL', 'MongoDB'],
   techCommunities: {
                       mentor:  'Dev.f',
                       speaker: 'Google Developer Student Clubs Latam',
