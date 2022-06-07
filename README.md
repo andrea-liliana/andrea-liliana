@@ -1,8 +1,10 @@
-<image src="https://user-images.githubusercontent.com/42507973/163586033-4d5876f5-7118-4760-ae27-8a09a9300727.png" width="100%" />
+<!--image src="https://user-images.githubusercontent.com/42507973/163586033-4d5876f5-7118-4760-ae27-8a09a9300727.png" width="100%" /-->
 
-<!--h1 align="center">Andrea Gómez Herrera</h1--->
+<h1 align="center">Andrea Gómez Herrera</h1>
 
-<!--h3 align="center">Mathematician 💫 | Master Data Science Student 👩‍💻 | Mexican :mexico:</h3-->
+<h3 align="center">Mathematician 🪐 | Master Data Science Student 👩‍💻 | Mexican :mexico:</h3>
+
+<img src="https://github.com/andrea-liliana/andrea-liliana/blob/output/github-contribution-grid-snake.svg" width="100%" />
 
 <h1> Hi there 👋 </h1>
 
@@ -28,4 +30,4 @@ const andrea = {
 }
 ```
 
-<img src="https://user-images.githubusercontent.com/42507973/163572620-df4b4609-3859-4544-9ca7-dd3f78ac30a9.png" width="100%" height="5"/>
+<!--img src="https://user-images.githubusercontent.com/42507973/163572620-df4b4609-3859-4544-9ca7-dd3f78ac30a9.png" width="100%" height="5"/-->
