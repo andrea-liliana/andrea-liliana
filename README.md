@@ -20,10 +20,10 @@ const andrea = {
   areas: ['NLP', 'Cloud', 'Data', 'AI', 'Machine Learning', 'Deep Learning', 'Probability & Statistics'],
   tools: ['Flask', 'VueJS', 'Vuex', 'Angular', 'Node.js'],
   cloud: ['Azure (Microsoft Azure Certification)', 'GCP'],
-  databases: ['MySQL', 'PostgreSQL', 'MongoDB'],
   techCommunities: {
+                      organizer: 'Google Developer Students Clubs ULiêge',
                       mentor:  'Dev.f',
-                      speaker: 'Google Developer Student Clubs Latam',
+                      speaker: 'Google Developer Students Clubs Latam',
                       events:  'Hackathon BBVA', 'Hackathon RIIAA'
                    },
  challenge: 'I am learning fullstack development at the Launch X program by Innovacción Virtual - Microsoft'
