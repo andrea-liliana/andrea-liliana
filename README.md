@@ -30,4 +30,11 @@ const andrea = {
 }
 ```
 
+<details>
+  <summary>Some Data Science Projects</summary>
+  <ul>
+  <li><a href="https://github.com/andrea-liliana/BrainTumorSegmentation"><em>Brain Tumor Segmentation</em></a></li>
+  <li><a href="https://github.com/andrea-liliana/AI-Pacman"><em>AI Pacman</em></a></li>
+</details>
+
 <!--img src="https://user-images.githubusercontent.com/42507973/163572620-df4b4609-3859-4544-9ca7-dd3f78ac30a9.png" width="100%" height="5"/-->
