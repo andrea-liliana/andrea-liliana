@@ -43,11 +43,11 @@ const andrea = {
 ### Some Projects
 
 <p align="center">
-<a href="https://github.com/andrea-liliana/andrea-liliana/gato-encerrado-Hackathon-RIIAA">
+<a href="https://github.com/andrea-liliana/gato-encerrado-Hackathon-RIIAA">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=andrea-liliana&repo=gato-encerrado-Hackathon-RIIAA&border_color=800080&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=800080" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/andrea-liliana/andrea-liliana/AI-Pacman">
+<a href="https://github.com/andrea-liliana/AI-Pacman">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=andrea-liliana&repo=AI-Pacman&border_color=800080&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=800080" />
 </a>
 </p>
