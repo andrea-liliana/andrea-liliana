@@ -8,7 +8,7 @@
 
 <h1> Hi there 👋 </h1>
 
-<p><!--em-->I'm Andrea Gómez Herrera and I studied mathematics with focus on probability and statistics at the <a href="https://www.unam.mx/">UNAM</a> and then decided to go into tech. Now I am a last year masters student in Data Science at <a href="https://www.uliege.be/cms/c_8699436/fr/uliege">Université de Liège</a> and currently working as Data scientist at <a href="https://www.devf.la">Dev.f</a>.
+<p><!--em-->I'm Andrea Gómez Herrera and I studied mathematics with focus on probability and statistics at the <a href="https://www.unam.mx/">UNAM</a> and then decided to go into tech. Now I am a last year masters student in Data Science at the <a href="https://www.uliege.be/cms/c_8699436/fr/uliege">University of Liège</a> and currently working as Data scientist at Dev.f.
 <!--/em--></p>
 
 
@@ -21,12 +21,12 @@ const andrea = {
   tools: ['Flask', 'VueJS', 'Vuex', 'Angular', 'Node.js'],
   cloud: ['Azure (Microsoft Azure Certification)', 'GCP'],
   techCommunities: {
-                      organizer: 'Google Developer Students Clubs ULiêge',
+                      organizer: 'Google Developer Students Clubs ULiège', 'GitHub Campus Expert Trainee', 
                       mentor:  'Dev.f',
                       speaker: 'Google Developer Students Clubs Latam',
                       events:  'Hackathon BBVA', 'Hackathon RIIAA'
                    },
- challenge: 'I am learning fullstack development at the Launch X program by Innovacción Virtual - Microsoft'
+ challenge: 'I will be writing my master thesis the next months.'
 }
 ```
 
