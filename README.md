@@ -31,7 +31,7 @@ const andrea = {
 ```
   
   
-### Some Projects I worked on 👩‍💻
+### Some projects I worked on 👩‍💻
 
 - <a href="https://github.com/andrea-liliana/BrainTumorSegmentation">Justice for the disappeared</a> - AI solution that analyses thousands of typewritten documents in order to solve forced disappearances.
   
