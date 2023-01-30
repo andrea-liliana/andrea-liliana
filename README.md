@@ -30,11 +30,25 @@ const andrea = {
 }
 ```
 
-<details>
+<!--details>
   <summary>Some Data Science Projects</summary>
   <ul>
   <li><a href="https://github.com/andrea-liliana/BrainTumorSegmentation"><em>Brain Tumor Segmentation</em></a></li>
   <li><a href="https://github.com/andrea-liliana/AI-Pacman"><em>AI Pacman</em></a></li>
-</details>
+</details-->
 
 <!--img src="https://user-images.githubusercontent.com/42507973/163572620-df4b4609-3859-4544-9ca7-dd3f78ac30a9.png" width="100%" height="5"/-->
+  
+  
+### Some Projects
+
+<p align="center">
+<a href="https://github.com/andrea-liliana/andrea-liliana/gato-encerrado-Hackathon-RIIAA">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=andrea-liliana&repo=gato-encerrado-Hackathon-RIIAA&border_color=800080&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=800080" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/andrea-liliana/andrea-liliana/AI-Pacman">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=andrea-liliana&repo=AI-Pacman&border_color=800080&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=800080" />
+</a>
+</p>
+
