@@ -18,7 +18,7 @@
 const andrea = {
   code:  ['Python', 'R', 'C', 'Java', 'Julia', 'HTML', 'CSS', 'SQL', 'JavaScript'],
   areas: ['NLP', 'Cloud', 'Data', 'AI', 'Machine Learning', 'Deep Learning', 'Probability & Statistics'],
-  tools: ['Flask', 'VueJS', 'Vuex', 'Angular', 'Node.js'],
+  tools: ['TensorFlow', 'Flask', 'VueJS', 'Vuex', 'Angular', 'Node.js'],
   cloud: ['Azure (Microsoft Azure Certification)', 'GCP'],
   techCommunities: {
                       organizer: 'Google Developer Students Clubs ULiège', 'GitHub Campus Expert Trainee', 
