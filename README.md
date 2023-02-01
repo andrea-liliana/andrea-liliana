@@ -33,11 +33,11 @@ const andrea = {
   
 ### Some projects I worked on 👩‍💻
 
-- <a href="https://github.com/andrea-liliana/BrainTumorSegmentation">Justice for the disappeared</a> - AI solution that analyses thousands of typewritten documents in order to solve forced disappearances.
+- <a href="https://github.com/andrea-liliana/gato-encerrado-Hackathon-RIIAA">Justice for the disappeared</a> - AI solution that analyses thousands of typewritten documents in order to solve forced disappearances.
   
 - <a href="https://github.com/andrea-liliana/diversity_inclusion_challenge">Breaking Bias Blockchain</a> - Tool that allows to identify biased internet contents using blockchain technology and NLP models.
 
-- <a href="https://github.com/andrea-liliana/BrainTumorSegmentation" >AI Pacman</a> - Implementation of an AI that plays the Pacman game using: Search agents, Minimax agents and a Bayes filter.
+- <a href="https://github.com/andrea-liliana/AI-Pacman" >AI Pacman</a> - Implementation of an AI that plays the Pacman game using: Search agents, Minimax agents and a Bayes filter.
  
 - <a href="https://github.com/andrea-liliana/BrainTumorSegmentation" >Brain Tumor Segmentation</a> - Implementation of an UNet to perform Image Segmentation. 
 
