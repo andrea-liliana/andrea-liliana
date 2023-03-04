@@ -26,7 +26,7 @@ const andrea = {
                       speaker: 'Google Developer Students Clubs Latam',
                       events:  'Hackathon BBVA', 'Hackathon RIIAA'
                    },
- challenge: 'I will be writing my master thesis the next months.'
+ challenge: 'I am writing my master thesis on Cloud automation with AI.'
 }
 ```
   
