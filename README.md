@@ -14,8 +14,8 @@
 
 <h1> Hi there 👋 </h1>
 
-<p><!--em-->I'm Andrea Gómez Herrera and I studied mathematics with focus on probability and statistics at the <a href="https://www.unam.mx/">UNAM</a> and then decided to go into tech. Now I am a fresh graduated from the master in Data Science at the <a href="https://www.uliege.be/cms/c_8699436/fr/uliege">University of Liège</a>.
-<!--/em--></p>
+<p><!--em>I'm Andrea Gómez Herrera and I studied mathematics with focus on probability and statistics at the <a href="https://www.unam.mx/">UNAM</a> and then decided to go into tech. Now I am a fresh graduated from the master in Data Science at the <a href="https://www.uliege.be/cms/c_8699436/fr/uliege">University of Liège</a>.
+</em--></p>
 
 
 ### A little more about me...  
