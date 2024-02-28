@@ -27,12 +27,12 @@ const andrea = {
   tools: ['TensorFlow', 'Flask', 'VueJS', 'Vuex', 'Angular', 'Node.js'],
   cloud: ['Azure (Microsoft Azure Certification)', 'GCP'],
   techCommunities: {
-                      organizer: 'Google Developer Students Clubs ULiège', 'GitHub Campus Expert Trainee', 
+                      organizer: 'Google Developer Students Clubs ULiège Lead', 'GitHub Campus Expert Trainee',
+                                 'Googles Women Techmakers Ambassador',  
                       mentor:  'Dev.f',
-                      speaker: 'Google Developer Students Clubs Latam',
+                      speaker: 'Google Developer Students Clubs Latam', 'IWD', 
                       events:  'Hackathon BBVA', 'Hackathon RIIAA'
-                   },
- challenge: 'I am writing my master thesis on Cloud Automation with AI'
+                   }
 }
 ```
   
